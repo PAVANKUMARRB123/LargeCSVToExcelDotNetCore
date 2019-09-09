@@ -1,0 +1,11 @@
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\bin\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.deps.json
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\bin\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.runtimeconfig.json
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\bin\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.runtimeconfig.dev.json
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\bin\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.dll
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.csprojAssemblyReference.cache
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.AssemblyInfoInputs.cache
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.AssemblyInfo.cs
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\bin\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.pdb
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.dll
+C:\Users\pavan.badiger\source\repos\LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore\obj\Debug\netcoreapp2.1\LargeCsvToExcelDotNetCore.pdb

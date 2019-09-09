@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeCsvToExcelDotNetCore", "LargeCsvToExcelDotNetCore\LargeCsvToExcelDotNetCore.csproj", "{31639491-6733-4B20-B9BC-EA1B92FD11AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31639491-6733-4B20-B9BC-EA1B92FD11AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31639491-6733-4B20-B9BC-EA1B92FD11AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31639491-6733-4B20-B9BC-EA1B92FD11AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31639491-6733-4B20-B9BC-EA1B92FD11AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621C52C4-9427-4BD0-9EEF-4DD4C852002C}
+	EndGlobalSection
+EndGlobal
